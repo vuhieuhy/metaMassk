@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_browser"
+        android:title="@string/nav_browser"
+        android:icon="@drawable/ic_browser" />
+    <item
+        android:id="@+id/nav_wallet"
+        android:title="@string/nav_wallet"
+        android:icon="@drawable/ic_wallet"/>
+    <item
+        android:id="@+id/nav_activate"
+        android:title="@string/nav_activate"
+        android:icon="@drawable/ic_activate"/>
+    <item
+        android:id="@+id/nav_share"
+        android:title="@string/nav_share"
+        android:icon="@drawable/ic_share"/>
+    <item
+        android:id="@+id/nav_see"
+        android:title="@string/nav_see"
+        android:icon="@drawable/ic_see"/>
+    <item
+        android:id="@+id/nav_set"
+        android:title="@string/nav_set"
+        android:icon="@drawable/ic_set"/>
+    <item
+        android:id="@+id/nav_support"
+        android:title="@string/nav_support"
+        android:icon="@drawable/ic_support"/>
+    <item
+        android:id="@+id/nav_feature"
+        android:title="@string/nav_feature"
+        android:icon="@drawable/ic_feature"/>
+    <item
+        android:id="@+id/nav_lock"
+        android:title="@string/nav_lock"
+        android:icon="@drawable/ic_lock"/>
+
+</menu>

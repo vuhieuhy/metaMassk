@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MetaMask</string>
+    <string name="nav_browser">Trình duyệt</string>
+    <string name="nav_wallet">Ví</string>
+    <string name="nav_activate">Hoạt động</string>
+    <string name="nav_share">Chia sẻ Địa chỉ công khai của t...</string>
+    <string name="nav_see">Xem trên Etherscan</string>
+    <string name="nav_set">Cài đặt</string>
+    <string name="nav_support">Hỗ trợ</string>
+    <string name="nav_feature">Yêu cầu một tính năng</string>
+    <string name="nav_lock">Khoá</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+</resources>
